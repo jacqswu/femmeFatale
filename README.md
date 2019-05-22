@@ -2,6 +2,8 @@
 
 ![Femme Fatale](/images/femmeFatale_header.jpg)
 
+[Webpage](https://jacqswu.com/Femme-Fatale)
+
 *Femme Fatale* is an antidote to the male gaze. Laura Mulvey's text *Visual Text and Narrative Cinema*, describes how historically, Woman is Image and Man is Bearer of the Look: 
 >"In a world ordered by sexual imbalance, pleasure in looking has been split between active/male and passive/female. The determining male gaze projects its phantasy onto the female figure [...] In their traditional exhibitionist role women are simultaneously looked at and displayed with their appearance coded for strong visual and erotic impact so that they can be said to connote to-be-looked-at-ness."
 
